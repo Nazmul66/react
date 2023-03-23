@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+
+.send{
+  border: 5px solid red;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.send h1{
+   margin: 0;
+}
+.send p{
+  font-size: 26px;
+  text-transform: capitalize;
+  font-weight: 600;
+  margin: 0;
+}
+
+.remind{
+  border: 5px solid green;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.remind h1{
+   margin: 0;
+   color: blueviolet;
+}
+.remind p{
+  font-size: 26px;
+  text-transform: capitalize;
+  font-weight: 600;
+  margin: 0;
+  color: blueviolet;
+}
+
