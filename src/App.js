@@ -1,8 +1,4 @@
-import logo from './logo.svg';
 import './App.css';
-import { useEffect, useState } from 'react';
-import Country from './component/countries/Country';
-
 
 // main app
 function App() {
